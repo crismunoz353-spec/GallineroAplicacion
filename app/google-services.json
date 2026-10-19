@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977138239418",
+    "project_id": "gallineroiot-6e45e",
+    "storage_bucket": "gallineroiot-6e45e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977138239418:android:00ca7f7694a6ba3c2b3f83",
+        "android_client_info": {
+          "package_name": "com.inacap.gallineroiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPd6h2ZS8YXwqYtKdcVlK4smwK1Ksc8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
